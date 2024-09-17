@@ -1,4 +1,7 @@
-### 哈囉你好嗎 👋
+### HI 👋
+我叫 Andy，也可以叫我小路
+
+更多內容歡迎前往：https://andy059120.github.io/
 
 <!--
 **andy059120/andy059120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
