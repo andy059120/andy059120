@@ -1,11 +1,9 @@
 ### HI 👋
 我叫 Andy，也可以叫我小路
 
-主修電腦科學，興趣是寫字
+主修電腦科學，興趣是🏃
 
 請多多指教～
-
-更多內容歡迎前往：https://andy059120.github.io/
 
 <!--
 **andy059120/andy059120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
