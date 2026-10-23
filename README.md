@@ -1,9 +1,7 @@
 ### HI 👋
-我叫 Andy，也可以叫我昶安
 
-主修電腦科學，興趣是🏃
+You can call me Andy — excited to work with you all!
 
-請多多指教～
 
 <!--
 **andy059120/andy059120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
